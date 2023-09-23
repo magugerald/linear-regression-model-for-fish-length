@@ -1,5 +1,7 @@
 # Linear regression model for Fish Length
 
+![Fish](fish.png)
+
 About the Models
 
 For this task, several models were employed to carry out the analysis.
